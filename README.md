@@ -1,40 +1,16 @@
-<p align="center">
-  <h1 align="center">Dify Community Edition</h1>
-  <p align="center">
-    <strong>English</strong> | <a href="README_ZH.md"><strong>简体中文</strong></a>
-  </p>
+# Dify-1.3.1-Kunpeng
 
-## Table of Contents
+## Specifications
 
-- [Repository Introduction](#repository-introduction)
-- [Prerequisites](#prerequisites)
-- [Image Description](#image-description)
-- [Getting Help](#getting-help)
-- [How to Contribute](#how-to-contribute)
+- Image Product: [Dify Community Edition](https://marketplace.huaweicloud.com/contents/7622552e-ac3a-4302-b141-ce4052274f91#productid=OFFI1133641574602362880)
+- Image Specifications: Dify-1.3.1-kunpeng
+- Adapted for: [ECS](https://support.huaweicloud.com/ecs/index.html)
+- CPU Architecture: Kunpeng
+- Operating System: Huawei Cloud EulerOS 2.0 64bit / Ubuntu 24.04
+- Resource Orchestration Service (RFS): ECS + EIP + VPC
 
-## Repository Introduction
-[Dify](https://dify.ai/) is an open-source Large Language Model (LLM) application development platform. It combines the concepts of Backend as a Service and LLMOps, enabling developers to quickly build production-ready generative AI applications. Even non-technical users can participate in defining AI applications and managing data operations.
+## Usage Instructions
 
-The open-source image product [**Dify Community Edition**](???) provided by this project comes pre-installed with Dify Community Edition and its related runtime environment, along with deployment templates. Follow the usage guide to easily enjoy an efficient "out-of-the-box" experience.
+- [Dify Community Edition Usage Guide](./docs/usage.md)<br>
 
-> **System Requirements:**
-> - CPU: 2 vCPUs or higher
-> - RAM: 4GB or larger
-> - Disk: At least 40GB
-
-## Prerequisites
-[Register a Huawei Account and Activate Huawei Cloud](https://support.huaweicloud.com/usermanual-account/account_id_001.html)
-
-## Image Description
-
-| Image Specifications                                                                                                                                 | Feature Description                                           | Notes |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------| --- |
-| [Dify-1.3.1-Kunpeng](https://github.com/HuaweiCloudDeveloper/dify-image/tree/dify-1.3.1-kunpeng/README.md) | Deployed on Kunpeng Cloud Server + Ubuntu 24.04 64bit / Huawei Cloud EulerOS 2.0 64bit |  |
-
-## Getting Help
-- Submit questions via [GitHub Issues](https://github.com/HuaweiCloudDeveloper/ollama-image/issues) or contact Huawei Cloud Marketplace support for this product
-- Explore other open-source images at [open-source-image-repos](https://github.com/HuaweiCloudDeveloper/open-source-image-repos)
-
-## How to Contribute
-- Fork this repository and submit pull requests
-- Synchronize updates to README.md based on your open-source image information
+For additional questions, contact us via [**GitHub Issues**](https://github.com/HuaweiCloudDeveloper/dify-image/issues) or **Huawei Cloud Marketplace support for this product**.
