@@ -1,9 +1,9 @@
 # Dify Community Edition
 ## Product Link
-[Dify Community Edition](https://marketplace.huaweicloud.com/contents/7622552e-ac3a-4302-b141-ce4052274f91#productid=OFFI1133641574602362880)
+[Dify Community Edition](https://marketplace.huaweicloud.com/intl/hidden/contents/9be11bb4-fea0-417c-a246-498605e0c887)
 
 ## Product Description
-[Dify](https://ollama.com/) is an open-source Large Language Model (LLM) application development platform. It combines the concepts of Backend as a Service and LLMOps, enabling developers to quickly build production-ready generative AI applications. Even non-technical users can participate in defining AI applications and managing data operations.
+[Dify](https://dify.ai/) is an open-source Large Language Model (LLM) application development platform. It combines the concepts of Backend as a Service and LLMOps, enabling developers to quickly build production-ready generative AI applications. Even non-technical users can participate in defining AI applications and managing data operations.
 
 Dify comes with built-in key technology stacks for constructing LLM applications, including:
 - Support for hundreds of models
