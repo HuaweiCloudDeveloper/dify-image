@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[Dify社区版](https://marketplace.huaweicloud.com/contents/7622552e-ac3a-4302-b141-ce4052274f91#productid=OFFI1133641574602362880)
+- 镜像商品：[Dify社区版](https://marketplace.huaweicloud.com/intl/hidden/contents/9be11bb4-fea0-417c-a246-498605e0c887)
 - 镜像规格：Dify-1.3.1-kunpeng
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
 - CPU架构：鲲鹏
