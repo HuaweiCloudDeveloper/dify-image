@@ -40,7 +40,7 @@ systemctl restart docker
 # Download Dify and Start Services
 ```shell
 cd ${HOME}
-git clone https://gitcode.com/gh_mirrors/di/dify.git --branch 1.3.1 dify
+git clone https://github.com/langgenius/dify.git --branch 1.3.1 dify
 
 cd dify/docker
 cp .env.example .env
