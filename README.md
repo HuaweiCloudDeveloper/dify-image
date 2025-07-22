@@ -15,7 +15,7 @@
 ## Repository Introduction
 [Dify](https://dify.ai/) is an open-source Large Language Model (LLM) application development platform. It combines the concepts of Backend as a Service and LLMOps, enabling developers to quickly build production-ready generative AI applications. Even non-technical users can participate in defining AI applications and managing data operations.
 
-The open-source image product [**Dify Community Edition**](???) provided by this project comes pre-installed with Dify Community Edition and its related runtime environment, along with deployment templates. Follow the usage guide to easily enjoy an efficient "out-of-the-box" experience.
+The open-source image product [**Dify Community Edition**](https://marketplace.huaweicloud.com/intl/hidden/contents/9be11bb4-fea0-417c-a246-498605e0c887) provided by this project comes pre-installed with Dify Community Edition and its related runtime environment, along with deployment templates. Follow the usage guide to easily enjoy an efficient "out-of-the-box" experience.
 
 > **System Requirements:**
 > - CPU: 2 vCPUs or higher
@@ -32,7 +32,7 @@ The open-source image product [**Dify Community Edition**](???) provided by this
 | [Dify-1.3.1-Kunpeng](https://github.com/HuaweiCloudDeveloper/dify-image/tree/dify-1.3.1-kunpeng/README.md) | Deployed on Kunpeng Cloud Server + Ubuntu 24.04 64bit / Huawei Cloud EulerOS 2.0 64bit |  |
 
 ## Getting Help
-- Submit questions via [GitHub Issues](https://github.com/HuaweiCloudDeveloper/ollama-image/issues) or contact Huawei Cloud Marketplace support for this product
+- Submit questions via [GitHub Issues](https://github.com/HuaweiCloudDeveloper/dify-image/issues) or contact Huawei Cloud Marketplace support for this product
 - Explore other open-source images at [open-source-image-repos](https://github.com/HuaweiCloudDeveloper/open-source-image-repos)
 
 ## How to Contribute
